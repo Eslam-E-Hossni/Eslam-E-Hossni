@@ -1,6 +1,5 @@
 ## Hi 👋, I'm Islam Emad
-##### motivated, eager to learn, organized, and responsible. I am dedicated to staying informed about the latest tech innovations and industry best practices. My proactive self-learning approach helps me continuously enhance my skills and grow professionally. With a strong interest in AI, I am committed to exploring its vast potential and applications.
-
+##### motivated, eager to learn, organized, and responsible. I am dedicated to staying informed about the latest tech innovations and industry best practices. My proactive self-learning approach helps me continuously enhance my skills and grow professionally.
 [![Linkedin:Islam](https://img.shields.io/badge/-Islam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/islam-emad-7a0152205/)](https://www.linkedin.com/in/islam-emad-7a0152205/)
 [![Facebook:Islam](https://img.shields.io/badge/-Islam-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/ESLAM10220/)](https://www.facebook.com/ESLAM10220/)
 ![GitHub followers](https://img.shields.io/github/followers/eslam-e-hossni?label=Follow&style=social)
