@@ -6,7 +6,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/eslam-e-hossni)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=eslam-e-hossni&color=brightgreen">  
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" width="400" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 - 🌱 I’m currently learning everything
 - 👨‍🤝‍👨 I’m looking to collaborate with other content creators
